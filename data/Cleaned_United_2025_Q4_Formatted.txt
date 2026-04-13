@@ -1,0 +1,278 @@
+unitedhealth group incorporated unh q4 2025 earnings call january 27 2026 800 am est
+company participants
+stephen hemsley  ceo  nonindependent nonexecutive chairman
+timothy noel  chief executive officer of unitedhealthcare business
+patrick conway  chief executive officer of optum rx
+wayne deveydt  chief financial officer
+krista nelson  chief executive officer of unitedhealthcare community  state
+michael cotton  chief executive officer of medicaid
+bobby hunter  ceo of government programs  head of medicare insurance
+jon mahrt  chief growth officer
+daniel schumacher  chief strategy  growth officer
+christopher zaetta  executive vp chief legal officer  corporate secretary
+conference call participants
+joshua raskin  nephron research llc
+justin lake  wolfe research llc
+kevin fischbeck  bofa securities research division
+stephen baxter  wells fargo securities llc research division
+lisa gill  jpmorgan chase  co research division
+scott fidel  goldman sachs group inc research division
+albert rice  ubs investment bank research division
+ann hynes  mizuho securities usa llc research division
+erin wilson wright  morgan stanley research division
+jessica tassan  piper sandler  co research division
+presentation
+operator
+good morning and welcome to the unitedhealth group fourth quarter and full year 2025 earnings conference call a questionandanswer session will follow unitedhealth groups prepared remarks as a reminder this call is being recorded
+here is some important introductory information this call contains forwardlooking statements under us federal securities laws these statements are subject to risks and uncertainties that could cause actual results to differ materially from historical experience or present expectations a description of some of the risks and uncertainties can be found in the reports that we file with the securities and exchange commission including the cautionary statements included in our current and periodic filings
+this call will also reference a nongaap amount reconciliation of the nongaap to gaap amounts is available on the financial  earnings reports section of the companys investor relations page at wwwunitedhealthgroupcom information presented on this call is contained in the earnings release we issued this morning and in our form 8k dated january 27 2026 which may be accessed from the investor relations page of the companys website
+i will now turn the conference over to the chairman and chief executive officer of unitedhealth group stephen hemsley
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+thank you and good morning thank you for joining us today this morning ill provide updates on the progress our organization has made over the last 6 months and the momentum that is building in 2026 tim noel and patrick conway will dive more deeply into how unitedhealthcare and optum finished 2025 and our conviction for improved performance in 2026 wayne deveydt will walk through the details of our full year 2025 financial performance and 2026 outlook before we turn to qa
+we continue to progress and strengthen as we enter 2026 weve taken a critical look across all our products and our us market positions focusing on what is working what needs more attention and what no longer makes sense for us we are driving greater operational disciplines in all our business practices leveraging the use of technology and artificial intelligence broadly and renewing our commitment to innovation agility and accountability
+we have removed assets that are not aligned with our focus on serving the us health system we continue to strengthen our management team leveraging both our internal depth and bringing fresh ideas and talent from outside the organization these actions and others are intended to improve the value we offer to all those we serve and drive sustainable growth for many years to come our people are rising to the challenge before them
+we finished 2025 with adjusted earnings per share of 1635 which was slightly ahead of our expectations full year 2025 results exclude a 16 billion netoftax and largely noncash charge very consistent with what we discussed on our third quarter earnings call addressing the elements of this charge was important in setting a solid foundation for returning to the historical earnings quality and growth youve come to expect from us wayne will provide further details on both these results and the charge
+looking to 2026 we expect adjusted earnings per share of greater than 1775 for growth of at least 86 our initial outlook reflects measured growth across all 4 of our reporting business segments with doubledigit improvements at unitedhealthcare and low to high singledigit adjusted growth across our optum segments
+these overall results are tempered by the third year of medicare funding reductions ongoing funding shortfalls within our state medicaid programs and our historical respect for rising medical cost trends as expected improvement will be more evident within unitedhealthcare in 2026 while at an earlier stage optum will take more operational effort and investment and time
+at unitedhealthcare we successfully repriced the insurance businesses intentionally rightsizing them to refocus on membership we can best serve on a sustainable basis in optum new leaders are driving operational improvements that translate to more consistent results and better performance visibility weve taken a critical look at our services and geographies remaining in markets that are best aligned with our core integrated valuebased care purpose
+this analysis also led us now to align optum financial services with optum insight where our energies and talents for health care technology and financial technology innovation can be brought together to better address the opportunities and potential within these markets we are clearly embarking on a new age of technology already transforming the way the world operates and health care must participate carefully and fully we plan to be a leader in that movement
+we expect 2026 to be a year of focus and execution an important one in the history of our company we have emerged strongly from challenging periods in our past and are committed to that course today our team is showing great resilience and energy and we believe strongly the steps we are taking will pay off
+with that ill turn it over to tim
+timothy noel
+chief executive officer of unitedhealthcare business
+thanks steve unitedhealthcare finished 2025 having made progress to more effectively serve our members and network partners another important element in building sustainable growth we closed the year with medical care patterns in each business in line with our updated outlook and ultimately supportive of our pricing decisions for 2026
+with that i will briefly walk through each business starting with medicare the 2025 medical cost trend was in line with our expectation of approximately 75 and supports our 2026 trend expectation of 10 this reflects consistently elevated utilization in addition to increases in physician fee schedules and the continuation of higher service intensity per care encounter
+as part of our efforts to address elevated trends and funding cuts we planned for some medicare advantage membership contraction in 2026 we now expect uhc medicare advantage contraction will be in the range of 13 million to 14 million members for the full year including group individual and dual special needs plans these are greater losses than originally anticipated as competitive market dynamics drove higherthanexpected plan shopping during the intensely competitive annual enrollment period
+our 2026 approach favored margin recovery and these membership trends are a result of these actions we similarly positioned our medicare supplement and standalone part d segments and as a result of the totality of actions taken across uhc medicare we expect an improvement in medicare margins of approximately 50 basis points from 2025
+looking briefly to 2027 the advance notice published yesterday simply doesnt reflect the reality of medical utilization and cost trends we will continue to work with cms to ensure an appropriate final growth rate calculation to avoid a profoundly negative impact on seniors benefits and access to care that would be a deeply unfortunate result for a program that already is under funding pressure from the previous administration despite its track record of success serving seniors and taxpayers
+turning to medicaid we continue to expect this business to see incremental pressure in 2026 largely driven by state funding shortfalls we have received some rate relief but still anticipate the mismatch between rate and acuity to pressure performance in 2026 while we hope for further improvement in 2027 we expect medicaid membership contraction of approximately 565000 to 715000 people which includes dsnp members due to reduced medicaid eligibility combined with the exit from one state
+we took important steps in our commercial pricing and cost management efforts during the second half of this year nearly all of our employer group and fully insured pricing align with continued increases in care activity for 2026
+in the individual aca market we repriced nearly all states in response to higher medical trends and the elevated needs of aca beneficiaries in 2025 these actions were necessary to ensure a sustainable foundation in these plans and enable us to maintain our participation in all the states we served in 2025 we are working with cms on solutions to address the consumer affordability challenge given the unfolding dynamics in the aca marketplace
+as we announced last week we have voluntarily pledged to rebate aca market profits back to our aca customers this year as policymakers work to determine how to improve affordability in this marketplace we expect both fully insured group and individual enrollment to contract and be partially offset by continued momentum in our group selffunded offerings
+for 2026 overall our strategic focus on margin recovery through product repositioning and repricing efforts enables us to estimate approximately 13 adjusted operating earnings growth across all of uhc principally from the improvement in serving commercial and medicare market needs these actions should expand operating earnings margins for unitedhealthcare by 40 basis points and are expected to result in membership contraction of 23 million to 28 million
+the expected contraction in commercial membership is in line with our plans while this will drive margin expansion in 2026 we still anticipate operating just slightly below our historical margin range until 2027 our uhc recovery effort is being supported by steady efficiency gains as we advance ai and machine learning capabilities across our businesses we anticipate operating cost reductions of nearly 1 billion in 2026 many aienabled and importantly resulting in higher customer experience and satisfaction at a lower cost over 80 of calls from members leverage ai tools to help answer members questions faster and more accurately this enables our advocates to focus more time on a better service experience for individuals
+now ill turn it over to patrick conway ceo of optum
+patrick conway
+chief executive officer of optum rx
+thanks tim and good morning everyone as we start 2026 optum will be anchored around relentless focus on improved and consistent execution in optum health and optum insight that will enable future margin expansion and topline growth optumrx will remain focused on maintaining its market position and providing a more comprehensive suite of pharmacy benefits and services and continuing to pursue success in winning new customers for 2027 and 2028 all in highly competitive markets
+our 2026 performance outlook reflects adjusted earnings growth in all 3 segments of our business ranging from low to high singledigit yearoveryear performance and margin expansion ranging from 20 to 90 basis points across the portfolio growth rates will remain somewhat tempered in 2026 but strategic refocus and investment in modern nextgeneration services should lead to growing momentum in the back half of the year that will carry into 2027 and beyond
+some details on each of our segments starting with optumrx at optumrx we expect operating earnings growth from expanding margins by approximately 20 basis points on an adjusted basis this growth is driven by a strong external selling season that will impact 2026 and 2027 as we implement and expand over 800 new customer relationships while new customer wins were offset by membership contraction at unitedhealthcare we are capitalizing on significant ai automationenabled operating efficiencies to support our expanded margin outlook in 2026
+entering 2026 we have implemented new pricing models that will deliver greater transparency to customers and costbased reimbursement to pharmacies
+we have removed reauthorization requirements for 180 drugs benefiting millions of people and we will continue to expand these efforts and we continue to advance our commitment to pass through 100 of drug rebates we received to our customers over 95 of our customers have elected to receive full rebate passthrough in 2026 with all remaining customers expected to transition by the end of 2027
+our customers recognize pharmacy benefits are an essential tool in helping employers governments and patients afford and access medications optumrx members save over 2200 in annual prescription costs due to our efforts in moderating manufacturer drug price increases
+turning to optum insight we expect earnings growth of greater than 4 while expanding margins by approximately 90 basis points this growth is driven by new sales commercialization of new products stringent cost management and increased volumes within existing core businesses investments and execution on 2026 priorities will set the stage for more growth into 2027 and beyond principally through broadbased aifirst new product innovation strengthening optums care provider market offerings
+an important change starting in 2026 involves aligning optum insight and optum financial services these businesses have a much greater synergy today for example integrating optum reals aidriven revenue cycle solutions with optum financial services payment and financing capabilities has the potential to transform health care transactions moving the industry from postservice reconciliation to realtime pointofcare approval and monetization creating a more modern closedloop approach that is better for the health system
+the impact is significant it reduces areas of longstanding processing friction while enhancing optum insights growth and margin potential by expanding beyond transaction processing into highervalue services focused on a more certain simpler faster experience for patients and providers we serve unlocking faster settlement improved liquidity for providers and creating new value pools for payers
+turning to optum health as you see in our results this morning we made substantial changes through 2025 enabling our team to enter 2026 with a stronger foundation more aligned to the intent of our integrated valuebased care approach we expect operating earnings growth of approximately 9 while expanding margins by approximately 30 basis points this growth is driven by a back to the basics focus on integrated valuebased care and execution ill touch on a few core areas in which we have taken action
+first we are focusing on markets where we have strong presence and the complementary wraparound services to succeed in our integrated valuebased care approach we provide these services under an aligned incentive structure that improves outcomes reduces cost and improves patient satisfaction practices operating in this environment are driving down total cost of care by up to 30 with patient satisfaction nps near 90
+second we are making sure our integrated valuebased care network is appropriate and optimized weve narrowed our affiliated network by nearly 20 since this time last year with the goal of having a more optimal alignment of physicians and services in place to best serve our patients we have strengthened our valuebased care network and management disciplines and well continue to reshape the network to ensure it is aligned with our strategy for higher quality and greater affordability
+third we have streamlined our risk membership by approximately 15 this reflects dropping unaligned ppo contracts repositioning certain markets and payer dedelegation in instances where we were not able to reach a viable sponsor contract importantly we have made strides in getting back to the original intent of our integrated vbc vision removing ancillary services risk and focusing back on core medical care the majority of this work was done for 2026 with a smaller amount still to address in 2027
+finally we have improved basic operational disciplines we have exceptional care teams and proven approaches in 2024 and 2025 inconsistencies in markettomarket execution hurt us we are intensely focused on driving consistency accountability and performance for example we now have nearly 100 of our employed provider groups on 1 of 3 strategic electronic medical records this is down from 18 emrs in the past few years this will enable us to more swiftly adopt enhanced workflow tools and ai as well as have more timely and consistent data to guide our patient care efforts
+optum health has made significant progress in bringing the integrated valuebased care approach back to original purpose you should expect further progress from us throughout 2026 as we continue our journey back to strong transparent consistent results while driving higher quality of care for patients and lowering overall cost in the health system
+before i turn it over to wayne i want to take a brief moment to thank all the people of optum who continue to work every day to ensure our customers and our patients get the best experience and care we can offer
+wayne
+wayne deveydt
+chief financial officer
+thanks patrick and good morning everyone ill start by diving right into our 2025 results today we reported adjusted earnings per share of 1635 which was slightly ahead of our expectations these results reflect continued solid execution across the enterprise that will carry into 2026
+as steve noted the quarter included a 16 billion netoftax charge or 178 per share which was largely noncash and primarily related to actions within optum this net charge has 3 primary components first a trueup for all remaining cyberattackrelated activities including approximately 800 million for net collection expectations associated with provider loans and other customer balances second a net gain of about 440 million related to portfolio optimization activities associated with assets we are exiting or plan to exit
+and third a 25 billion related charge principally to broad restructuring and other actions including contract reassessments real estate rationalization and workforce reductions of note approximately 625 million of this charge relates to a loss contract reserve for thirdparty contractual relationships within the optum portfolio that are structurally unprofitable and that we could not exit for 2026 these actions are aligned with our broader efforts to improve focus and execution to drive more sustainable longterm earnings performance
+some additional details for the full year 2025 we delivered revenues of nearly 448 billion reflecting 12 growth from 2024 driven by domestic membership growth of over 415000 people our medical care ratio of 891 came in slightly better than our expectations this includes approximately 20 basis points of negative chargerelated impacts primarily associated with the loss contract reserve i just discussed
+our operating cost ratio of 133 demonstrates strong management discipline while balancing key investments in people and capabilities that support longterm performance improvements the operating cost ratio was slightly higher than anticipated due to approximately 40 basis points of chargerelated impacts higher than originally contemplated because of approximately 800 million in broadbased employee incentives and funding to the unitedhealth foundation
+investing in our workforce and the communities we serve both are critically important to this enterprise finally earnings were supported by strong cash flows of 197 billion or approximately 15x net income
+turning to our 2026 outlook we expect revenues of approximately 440 billion net earnings of at least 1710 per share and adjusted net earnings of greater than 1775 per share this reflects anticipated operational improvements and margin stabilization as we continue executing against our longterm strategy we expect slightly under 23 of full year earnings to be generated in the first half of the year this seasonal progression is largely consistent with 2025 and reflects the impact of part d benefit changes under the inflation reduction act as well as overall business mix
+turning to cash flow we expect to generate at least 18 billion from operations in 2026 or about 11x net income our medical care ratio is expected to be 888 plus or minus 50 basis points reflecting our view that medical care activity will likely remain at current trend levels through 2026 consistent with prior years we expect the first half medical care ratio to be notably below the midpoint with the second half notably above
+the operating cost ratio is expected to be 128 plus or minus 50 basis points this reflects disciplined cost management ongoing productivity initiatives and the early benefits of our investments in artificial intelligence while also incorporating required investments in people and technology
+our 2026 outlook reflects the realignment of optum financial services from optum health into optum insight we believe this better optimizes the optum portfolio and aligns with how we expect to engage the marketplace and grow through the optum ai network
+finally on capital and liquidity for 2026 we expect our dividend to remain well supported by earnings and cash flow as we look ahead we expect leverage to continue improving through the year supported by strong cash generation and a more stable operating environment and to reach our longterm debttocapital target of approximately 40 before yearend and as this progress continues we expect to return to our historical capital deployment practices in the second half of the year
+before closing i want to echo what steve tim and patrick have said about the people of unitedhealth group 2025 was a year of challenges on multiple fronts our team stepped up embraced those challenges and remained focused on delivering for the people we serve
+now ill turn it back to steve for some closing remarks
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+thanks wayne i hope everyone is getting the sense from todays comments that were returning to the operating and executional focus and the quality financial disciplines that have served us well details matter in these businesses these approaches are essential to enable us to better serve customers and consumers and the expectation of shareholders
+that commitment to serve is embodied in our mission to help people live healthier lives and to help make the health system work better for everyone and its supported by a deliberate culture to that end i would call out 3 overarching themes were pursuing the first is a refocus back to that mission and culture we are reenergizing and retooling that sense of mission and culture throughout the company which is already the core reason so many of our colleagues joined this enterprise
+the second is the urgent thoughtful application of modern intelligent technologies these efforts can help address longstanding needs in health care for simplicity speed certainty insight consumer empowerment and convenience were hoping to invest nearly 15 billion in 2026 and expect at least as much to follow in 2027 this work is making a difference within our organization today and we expect it will serve as the foundation for external versions that can benefit the broad health system through optum insight
+lastly we are methodically taking steps to advance greater trust and transparency wherever we serve the public health care interests this began with the independent reviews of business practices and risk assessment in pharmacy services and in care management those first independent reports were published in december and the remediation recommendations will be completed and reported no later than march of this year
+further independent oversight reviews and reports are in process today and will continue and in addition in 2026 we will begin to publish our results in areas of interest such as prior authorizations and claim approval rates certain performance statistics data and trends rebate practices and prices for products and services key business and core management practices and policies
+from efforts such as these and more as they evolve we will become even more publicly accountable for our performance and strive every day to improve it
+we thank you for your time this morning well now open it up for your questions operator please
+questionandanswer session
+operator
+operator instructions our first question comes from josh raskin with nephron research
+joshua raskin
+nephron research llc
+i appreciate all the details so youre guiding to a decline in 2026 in traditional ma lives of almost midteens and the proposed rates for 2027 as tim mentioned might indicate the need to further refine benefits even more than that so do you think were at the bottom of the ma cycle now should we expect ma margins to improve not just what you mentioned in 26 but in 2027 and then if you could help frame how important that core ma book is to the other segments of the enterprise especially optum health
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+yes so josh maybe ill maybe respond to the second half of your question and then tim noel can kind of respond to the first but our interest has always been to serve all the markets in health care all the segments and also the national health system as a whole and ma is certainly important in that sense and its important to optum health and optumrx just as you suggest
+but i also might turn it around another way because the optum businesses are extremely complementary to unitedhealthcare and its benefits and to many other payers and thats why we believe that we are bringing more broadly to the health care market a very broad value really across the board and that is why you really  you have to strike the right balance when youre thinking about this in terms of growth in membership really across the whole of the unitedhealth group platform
+tim
+timothy noel
+chief executive officer of unitedhealthcare business
+thanks for the question so let me start the conversation with 2026 and as i hit on in the opening remarks our strategy in 26 did focus more so on margin than it did on any specific membership target and that is all really playing out as expected when you think about some of the core and key pricing assumptions that we made as we close out 25 those look to be good assumptions that we made and theyre really holding firm so we feel good about our margin recovery efforts of about 50 basis points across medicare advantage
+the membership losses while theyre a little north of what we were talking about earlier really kind of sit within our internal planning range so i think about that all as a real solid foundation that were setting for 2026 as we then head into 2027
+so moving into 2027 the news that we received last night in the advance notice was disappointing and it was because its a further reduction for a program that has experienced 130 billion in benefit  or pardon me in funding reductions over the last 3 years under the prior administration which is particularly concerning for a program that provides excellent choice access and affordability for americas seniors and does so with satisfaction rates north of 95 while saving money for taxpayers
+so were going to of course work with cms from now until the rates are finalized but as this all sits today as i talked about it will mean very meaningful benefit reductions and well once again need to take a hard look at our geographic footprint our product footprint across the country and has the likelihood to play out not dissimilar to how 2026 did in terms of modifications to plan footprint and benefits
+we dont see this to be something thats going to be broadly disproportionate payer by payer therefore seniors kind of across the sector are going to experience these implications of reduced choice reduced access and affordability challenges
+and given all of this and kind of where we sit too early to talk point estimates around margin or membership for 2027 but i will say this that over the long term given the actions that we have taken in 2026 and our integrated business model that as steve alluded to really focuses on valuebased care those things having a strong foundation focusing on valuebased models are going to be even more important in this environment that were being asked to operate thanks for the question josh
+operator
+our next question comes from justin lake with wolfe research
+justin lake
+wolfe research llc
+i wanted to ask about the fourth quarter optum health performance you guided to just under 3 billion of oi with the third quarter results and if im doing the adjusted math correctly it came in closer to 23 billion so underperformed by 600 million 700 million of oi in the fourth quarter its fairly surprising to still see this kind of volatility in the business that late in the year
+i was hoping you could lay out the drivers there and talk to what gives you guys confidence in more stable performance in 2026 given that fourth quarter volatility coming out of the year
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+good question justin and very much focused on making sure that we really took a hard look at that whole of the optum health business so krista do you want to respond
+krista nelson
+chief executive officer of unitedhealthcare community  state
+yes absolutely thanks for the question justin so results in the fourth quarter and for the full year were slightly disappointing to our expectations but really reflective of the restructuring actions that we took in the fourth quarter as well as some onetime items that are now right behind us
+in addition in the fourth quarter medical remained elevated but consistent with our expectations so excluding restructuring and the move of optum financial our adjusted earnings are now approximately 15 billion which is our new baseline that we will continue to build off of in the future
+maybe ill just take a quick step back and answer the second part of your question which is what gives us confidence we have reoriented optum health back towards our original purpose and we have a full integrated valuebased care delivery system where we employ and deeply partner with providers across multiple service lines including primary and specialty care imaging surgery home health behavioral health and additional wraparound services to support our patients
+its a system thats anchored by primary care and an aligned payment model which incentivizes improved outcomes offering preventive and holistic care compared to a system that rewards volume of services and weve established this strategic clarity in the business and paired it with a very comprehensive evaluation of our assets and capabilities which as a result we took meaningful actions in the fourth quarter to strengthen our foundation
+and in addition to that im pleased with progress that weve made in reshaping our risk portfolio refining our network and bolstering operations and i would say were significantly stronger today than we were just 6 months ago thanks for the question
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+so a really solid shakeout a totally different management and leadership team and a much more rigorous approach a lot of potential there
+operator
+and well move to our next question from kevin fischbeck with bank of america
+kevin fischbeck
+bofa securities research division
+i wanted to go back to the 27 ma rate update basically it sounds like youre saying that trend is the biggest part you want to go back to the government with but i wanted to focus i guess on the 2 kind of coding components that if you take out normalization 18 for call it the risk model and another 15 for charts so its like a 33 headwind i think that with v28 you guys talked about an impact that was more than what the industry was seeing
+would you expect a similar dynamic with these 2 coding components that as a company is probably better than average of coding youd see more than this kind of 33 headwind that were calculating and do you still feel good about  if thats true do you still feel good about getting to a 5 margin in valuebased care of optum health
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+sure tim do you want to address that
+timothy noel
+chief executive officer of unitedhealthcare business
+yes kevin thanks for the question so no we dont expect the impact to be different for us versus the rest of the industry on those 2 elements that you outlined our modeling shows consistency between what were seeing and also what the estimates are of industry averages on those 2 elements
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+and outlook so kevin was there a second part to your question
+kevin fischbeck
+bofa securities research division
+yes the second part was optum health margins with this rate cut indiscernible the 5
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+yes krista
+krista nelson
+chief executive officer of unitedhealthcare community  state
+yes thanks for that question i would just say its early we have opportunities to improve performance in the business just outside of ma rates let me just give you a couple of examples that really give me confidence in why were really confident in getting back to our longterm target margins as ive gotten to spend time with our care teams and after weve done that complete thoughtful evaluation of our performance in our businesses we do have many highperforming markets today that really deliver strong outcomes for our patients
+one example worth highlighting is a large market in texas where we serve over 750000 patients across over 50 clinics offering that holistic care i described primary care labs imaging specialty care home health surgery care coordination were really proud of our results for example here weve got a 45star health plan we have total cost of care that is approximately 30 better than our competitors a patient satisfaction of 90 really strong provider retention and margins already performing in our longterm target margin range
+another example that just gives me confidence here is weve got about 30 of our mature valuebased care patients that are already again inside that target margin range or above and so those 2 examples combined with the work i described previously that were doing to improve the consistency of our performance just give me a lot of confidence in the runway ahead for optum health
+kevin fischbeck
+bofa securities research division
+so really more about execution really than any other single factor really is focused on execution
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+yes thanks for the question
+operator
+well go next to stephen baxter with wells fargo
+stephen baxter
+wells fargo securities llc research division
+in the medicaid business i think you made reference to getting a little bit of rate relief so i was hoping you could speak to  11  rates that youre seeing and maybe contrast that to the rates you were seeing in 2025 and in general if the rates are coming in a little bit better and it seems like theres not going to be any material impact from early starts to work requirements have you kind of revisited your margin assumption for the medicaid business at all in 2026
+michael cotton
+chief executive officer of medicaid
+thanks stephen for the question ill give you kind of an overview on where we are in rates for 2026 our view remains unchanged in terms of overall performance our medicaid business  for our medicaid business we do expect some margin contraction due to the ongoing dislocation of rates and continued elevated medical trends
+we are projecting rate increases in the range of 6 to 7 in aggregate for the year but that will continue to be below our medical trend and we do expect some membership contraction as we continue to manage the business for january 1 our rates are somewhat in line with our expectations and again we expect our rates to range between 6 to 7 for the year as we think about 2026 thanks for the question
+operator
+and our next question comes from lisa gill with jpmorgan
+lisa gill
+jpmorgan chase  co research division
+i wanted to ask a couple of questions on the optumrx side first wayne you made a comment that due to part d were going to see earnings more first half driven can you talk about the changes around the subsidies and the impact that we have on part d
+and then secondly when we think about optumrx you talked about the member contractions because of what happened on the united side but 800 new clients on that side last quarter you talked about combining prescription and medical benefit trends can you just talk about those 800 new clients and if theres anything different that youre seeing in them as we think about 26
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+so maybe the first question bobby and then jon the second part
+bobby hunter
+ceo of government programs  head of medicare insurance
+yes thanks lisa for the question so maybe just kind of hit quickly on the part d side i mean wayne did talk about the seasonality dynamic weve been pretty clear i think now with the implementation of the ira we do see more of an even kind of seasonal trending throughout the year so that element is certainly kind of foundational in the outlook
+when you think about the actual 2026 benefit design the way that we position the benefits on the part d both for standalone pdp and mapd i think its very reflective of the way that the ira has evolved the program the way that the industry has largely kind of evolved the design so i feel like were in pretty good lockstep there with where overall industry is moving
+and as i look at just kind of how 2025 closed out on the pharmacy cost for us inside the health plan i feel pretty good about the overall trend on balance between all the key drivers things like specialty trend brand utilization et cetera so it gives me a pretty good belief in our outlook and our positioning for 2026 and early in the year i havent seen anything to suggest otherwise thanks for the question
+jon mahrt
+chief growth officer
+fantastic bobby and lisa thanks for the question so maybe building on the membership growth ill pick up where patrick left off in some of his opening comments strong selling season in 2026 combined with continued high 90s retention allowed us to backfill about half maybe more than half of the membership loss from uhc and so that puts us in a nice position to deliver a modest 2 earnings growth in 2026 for a business that we expect will return to the low double digit to high single  low single digit to high  excuse me high singledigit to low doubledigit earnings growth
+and if i unpack that lisa to your question on what are we seeing in the market and why are we winning why did those 800 new clients choose optumrx a couple of points our businesses are performing strongly each of our core businesses growing in the high single digits and the reason were winning threefold affordability transparency and execution
+from an affordability perspective our clients have never needed us more than now and good prospective activity there were committed to bringing affordability to those that we serve for our clients optumrx generates more than 100 billion in savings annually through negotiations with drug manufacturers and network pharmacies and then for our members and patients we deliver more than 1 billion in savings annually through our price edge and specialty iq solutions
+from a transparency perspective frankly were proud to be leading the transparency transformation in this industry and this begins with the industrys only fully transparent pharmacy and therapeutics committee and then it continues through the supply chain with wholesome instrumentation around manufacturer network and wholesaler drug pricing and so we couple all of this with our commitment to pass through 100 of rebates to clients by 2028 and then we wrap that in a transparency guarantee around our offering for our clients
+and then finally rounding out on experience were making it easier for all those that we serve providers clients and members to interact with us in our pharmacies record high nps in our home delivery pharmacy our behavioral health pharmacy delivering 90 nps for the patients that we serve and in our hospitalbased specialty pharmacies high 90s nps for patients and low 90s for providers
+and then finally lisa were eliminating provider and patient abrasion so as patrick mentioned we reduced or removed reauthorization requirements for more than 180 drugs that had the net effect of reducing our overall prior authorizations by more than 10 so in summary transformational vision is compelling our offering is resonating our team is executing and were well positioned for 2026 thanks for the question
+operator
+and our next question comes from scott fidel with goldman sachs
+scott fidel
+goldman sachs group inc research division
+i guess ill flip over to the commercial business and interested if you could just provide us with the breakdown of the 13 million to 14 million commercial risk lives that youre expecting to decline in 2026 how that breaks out between commercial group and then the exchanges
+and then also just in terms of margins and yearoveryear progression for commercial group and the exchanges what youre thinking about for 26 obviously we know that youre planning to rebate the profits from the exchange business
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+thanks scott dan
+daniel schumacher
+chief strategy  growth officer
+yes scott thanks for the question addressing your membership first and then moving to margin on membership pertaining to the riskbased decline the largest share of that membership decline is connected to our exchange business for 2026 where we continue to expect meaningful decline between now and the end of the year
+beyond the exchange business general market decline of riskbased customers our pricing posture supporting margin recovery and continued deliberate migration to our selffunded levelfunded small employer offerings all contributing to a decline in riskbased membership so to parse that out specifically 500000plus attributable to the exchange business the remainder to those 3 factors
+moving to margins and first addressing the exchange business over the course of the decadeplus in which we have operated in that market it has never been a significant contributor of earnings for us our pricing posture for 2026 coming out of 2025 is going to return that market to a positive margin business for us however i would expect those margins in the exchange business for 2026 to be in about the 1 range plus or minus 1 for that business
+related to margin for the group business in 2026 im encouraged by our january performance and how that has set us up for our full year plan specifically for january we found the market to be firm and competitive and that supported us yielding the required renewal rates and membership persistency to deliver on the 2026 margin improvement that tim alluded to in his opening remarks specifically i expect us to close more than half of the gap between our 2025 margin performance and our historical margin range which we expect to achieve in 2027 thanks for the question scott
+operator
+well go next to aj rice with ubs
+albert rice
+ubs investment bank research division
+i think as you guys came back on board and got your arms around the business you talked about modest growth in 26 getting back to low doubledigit earnings growth in 27 and then something more like what were used to seeing from united in 28 youre talking about the rate notice impacting benefit design and being felt by seniors and i think your underlying assumptions generally in medicare and with optum health had been for gradual margin improvement not dramatic margin improvement over the years
+youve got now a view on all the other business lines do you still think you can get to low doubledigit growth in 27 and back to traditional growth in 28 as you put it all together
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+yes well aj thanks for the question so were not going to really talk to 27 obviously its january of 26 so  but i would say that the business is meaningfully stronger than it was just a few months ago and in 26 our agenda is to strengthen it even further well continue to be focused on doing smart intelligent things to serve that total mission but well within the margins that we have operated in and continue to believe we can strengthen that
+so i cant speak to 27 but i will speak lets say to a longer term and that is very much feel that we can operate within our longterm growth rate margins that 13 to 16 when you take a look at the needs in the marketplace and the opportunity for this total enterprise to operate at its full potential and actually the elements in the marketplace the actual pressures that have been discussed on this call actually to respond to those effectively across the marketplace really speaks to what i think our overall business approach can achieve
+and when you think about just solid organic growth and retention again in the margins that we have been talking about the enormous potential of aidriven productivity which is already in line with an organization that is driven towards productivity and scale innovation and approaches to kind of serve the broader health care marketplace kind of ai as applied to health care in a practical way as a platform to really energize optum insights business agenda the need and emergence for valuebased care you combine that with thoughtful capital stewardship and the continued measured thoughtful expansion into the valueadded markets thats why i think that longterm growth rate for this enterprise
+and responding to the margins or the pressures in the marketplace has actually never been better but we have to play to full potential and we have to execute and that really is what were about but we have an amazing set of resources to respond to the needs of the marketplace and thats why i think the longterm growth for this enterprise is kind of more compelling than ever
+operator
+and well go next to ann hynes with mizuho securities
+ann hynes
+mizuho securities usa llc research division
+in your prepared remarks you talked about your trend expectations for 2026 is up 10 can you tell us what that is medicare medicaid and commercial and maybe how 2025 ended and what was different versus your expectations
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+tim
+timothy noel
+chief executive officer of unitedhealthcare business
+yes thanks ann for the question so youre correct the 10 is a number that reflects our utilization assumptions inside of medicare 2025 closed out around 75 which is what weve kind of reset our expectation through middle point of the year so that really is playing out well at a high level in terms of historical care utilization patterns in line with our reset expectations
+we have historically or recently talked about the commercial trend approaching 11 i think thats probably still a good place to orientate to and due to some of the nuance in the medicaid market where its not quite as instructive to give a point estimate there but i think you can just think about the themes really being similar across all the businesses seeing elevated trend that elevated in the earlier part of 2025 remains at those elevated levels and our expectation is that will persist into 2026
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+thanks tim i think we have time for maybe just one more question or 2 because were going to try to wrap it up at 8
+operator
+and our next question comes from erin wright with morgan stanley
+erin wilson wright
+morgan stanley research division
+great so it seems like youre progressing according to plan with the optum turnaround but have there been any surprises that have come out of some of the initiatives there especially at optum care and just i think youre still saying that the longterm margin target 6 to 8 is still intact i just want to confirm that
+and then just in light of the rate notice and policies top of mind how are you thinking about this administrations support of valuebased care initiatives and the integrated optum offering and you mentioned just how important valuebased care is to operate in this environment so some context there would be helpful
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+sure krista do you want to kick it off
+krista nelson
+chief executive officer of unitedhealthcare community  state
+yes absolutely thanks erin for the question so a couple of things you asked about just how were progressing and if weve seen any surprises no i think as weve gone through the evaluation i described in the fourth quarter and as weve started to look at performance in each business and as weve made some decisions to improve our footprint and our market portfolio and getting some of that behind us i actually feel better about our 2026 position and our foundation by which we will be building off of
+your second question was on the 6 to 8 and if thats still intact and the answer is yes like i mentioned earlier the examples i described in houston we have a number of examples like that where i described our mature valuebased cohorts already performing inside that again those are reasons to give us confidence that being said we do have work to do which is weve laid that out thoughtfully
+and i think in terms of progression of earnings were looking at modest basis point improvement inside 2026 as investments take shape and as we overcome the last year of v28 with building stronger momentum in the back half of the year setting us up for 2027
+and then the last part of your question around just the support of valuebased care what weve got is a very unique integrated valuebased care delivery system that continues to demonstrate value to patients served higher quality outcomes and a total cost of care that is significantly better than all market alternatives and this system like i mentioned earlier is aligned around an aligned payment model which incentivizes preventive care and holistic care
+and comparing that to a system that rewards for volume is just a system that we need more of and we feel even stronger today about that need and the greater possibilities for optum health than we have before so thanks for the question
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+totally perfect and the pressure in the marketplace just actually makes valuebased care more compelling and the retention of patients to valuebased care is very strong
+operator
+our last question comes from jessica tassan with piper sandler
+jessica tassan
+piper sandler  co research division
+so what would you highlight for investors from the independent reviews of unh business practices that you all published in december and is there any way to draw confidence around uhc and optum healths ability to contend with risk adjustment reform from some of those reviews
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+sure ill just offer broadly they were actually very positive they really did speak they were more focused on the overall environment the controls the oversight the governance with respect to those areas of practice and particularly in risk assessment and so we were pleased with that and we are following that with really our own independent review in terms of risk accuracy
+chris
+christopher zaetta
+executive vp chief legal officer  corporate secretary
+yes ill just follow up to say that i think the reports really are focused on trying to advance trust and transparency in these areas and in 2026 we are going to do at least 3 or 4 more of these reviews that will be really focused on the metrics that come out of it while 2025 was really focused on the policies procedures compliance oversight all of which were strong and robust 2026 will focus on risk assessment accuracy and metrics clinical policy accuracy and pharmacy services
+stephen hemsley
+ceo  nonindependent nonexecutive chairman
+and we have reviewed these with the administration so we are very much open and continuing this course again recognizing the longterm responsibility for trust and transparency in this so i really appreciate the question a good one to end with
+it is really all we have time for now what i would say is the momentum inside this organization is palpable we still have work to do to continue to successfully build and progress over the next several months and we are eager to get to it but im very pleased with the performance and outlook that we have thank you for your time today
+operator
+and ladies and gentlemen this does conclude todays conference we thank you for your participation
