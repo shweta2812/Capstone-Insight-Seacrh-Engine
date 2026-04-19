@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+anthropic
+pandas
+numpy
+sentence-transformers
+chromadb
+requests
+python-dotenv
+rank-bm25
+langchain-text-splitters
+tiktoken

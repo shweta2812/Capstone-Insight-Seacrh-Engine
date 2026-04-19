@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Large generated data — regenerate locally with scripts/
+data/vector_db/
+data/raw/
+data/summaries/
+
+# Next.js
+frontend/.next/
+frontend/node_modules/
