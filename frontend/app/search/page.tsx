@@ -1,8 +1,7 @@
 "use client";
 
-import { useState, useRef, useEffect } from "react";
-import { Header } from "@/components/header";
-import { Send, Trash2, ChevronDown, ChevronUp, FileText, X } from "lucide-react";
+import React, { useState, useRef, useEffect } from "react";
+import { Send, Trash2, FileText, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { DocumentDrawer } from "@/components/document-drawer";
 import type { Citation } from "@/lib/types";
@@ -13,43 +12,23 @@ interface Turn {
   citations: Citation[];
 }
 
-const SUGGESTIONS = [
-  "What are Elevance's key strategic priorities for 2024?",
-  "How is UnitedHealth growing Medicare Advantage?",
-  "What technology investments are competitors making?",
-  "Compare medical loss ratios across competitors.",
-  "What did competitors say about Medicaid redeterminations?",
-  "How is Aetna's CVS integration affecting performance?",
-];
-
-const COMPANY_FILTERS = ["All", "Elevance Health", "UnitedHealth Group", "Aetna (CVS Health)",
-  "Cigna Group", "Humana", "Centene", "Molina Healthcare", "Oscar Health"];
-const COMPANY_KEY_MAP: Record<string, string> = {
-  "Elevance Health": "elevance", "UnitedHealth Group": "united",
-  "Aetna (CVS Health)": "aetna", "Cigna Group": "cigna",
-  "Humana": "humana", "Centene": "centene",
-  "Molina Healthcare": "molina", "Oscar Health": "oscar",
-};
-
-/** Renders answer text with [Source N] turned into clickable inline chips */
-function AnswerText({
+/** Renders inline content: bold + [Source N] chips */
+function InlineContent({
   text,
-  citations,
   onSourceClick,
   activeSource,
 }: {
   text: string;
-  citations: Citation[];
   onSourceClick: (ref: number) => void;
   activeSource: number | null;
 }) {
-  const parts = text.split(/(\[Source \d+\])/g);
+  const parts = text.split(/(\[Source \d+\]|\*\*[^*]+\*\*)/g);
   return (
-    <p className="text-sm text-foreground/85 leading-relaxed whitespace-pre-wrap">
+    <>
       {parts.map((part, i) => {
-        const m = part.match(/\[Source (\d+)\]/);
-        if (m) {
-          const ref = parseInt(m[1]);
+        const srcMatch = part.match(/\[Source (\d+)\]/);
+        if (srcMatch) {
+          const ref = parseInt(srcMatch[1]);
           const active = activeSource === ref;
           return (
             <button
@@ -67,13 +46,71 @@ function AnswerText({
             </button>
           );
         }
+        if (part.startsWith("**") && part.endsWith("**")) {
+          return <strong key={i} className="font-semibold text-foreground">{part.slice(2, -2)}</strong>;
+        }
         return <span key={i}>{part}</span>;
       })}
-    </p>
+    </>
   );
 }
 
-/** Inline snippet panel shown when a [Source N] is clicked */
+function AnswerText({
+  text,
+  onSourceClick,
+  activeSource,
+}: {
+  text: string;
+  onSourceClick: (ref: number) => void;
+  activeSource: number | null;
+}) {
+  const lines = text.split("\n");
+  const elements: React.ReactNode[] = [];
+
+  lines.forEach((line, i) => {
+    if (/^#{1,3}\s/.test(line)) {
+      elements.push(
+        <p key={i} className="text-sm font-semibold text-foreground mt-3 mb-0.5 first:mt-0">
+          <InlineContent text={line.replace(/^#{1,3}\s/, "")} onSourceClick={onSourceClick} activeSource={activeSource} />
+        </p>
+      );
+    } else if (/^---+$/.test(line.trim())) {
+      elements.push(<hr key={i} className="border-border my-2" />);
+    } else if (/^>\s/.test(line)) {
+      elements.push(
+        <blockquote key={i} className="border-l-2 border-primary/40 pl-3 my-1 text-sm text-muted-foreground italic">
+          <InlineContent text={line.replace(/^>\s/, "")} onSourceClick={onSourceClick} activeSource={activeSource} />
+        </blockquote>
+      );
+    } else if (/^[-*•]\s/.test(line)) {
+      elements.push(
+        <div key={i} className="flex gap-2 text-sm text-foreground/85 leading-relaxed">
+          <span className="shrink-0 text-muted-foreground">·</span>
+          <span><InlineContent text={line.replace(/^[-*•]\s/, "")} onSourceClick={onSourceClick} activeSource={activeSource} /></span>
+        </div>
+      );
+    } else if (/^\d+\.\s/.test(line)) {
+      const num = line.match(/^(\d+)\.\s/)?.[1];
+      elements.push(
+        <div key={i} className="flex gap-2 text-sm text-foreground/85 leading-relaxed">
+          <span className="shrink-0 text-muted-foreground font-medium w-4">{num}.</span>
+          <span><InlineContent text={line.replace(/^\d+\.\s/, "")} onSourceClick={onSourceClick} activeSource={activeSource} /></span>
+        </div>
+      );
+    } else if (line.trim() === "") {
+      elements.push(<div key={i} className="h-1.5" />);
+    } else {
+      elements.push(
+        <p key={i} className="text-sm text-foreground/85 leading-relaxed">
+          <InlineContent text={line} onSourceClick={onSourceClick} activeSource={activeSource} />
+        </p>
+      );
+    }
+  });
+
+  return <div className="space-y-0.5">{elements}</div>;
+}
+
 function SourceSnippetPanel({
   citation,
   onClose,
@@ -92,10 +129,7 @@ function SourceSnippetPanel({
           <span className="text-muted-foreground/60">{citation.source_type}</span>
         </div>
         <div className="flex items-center gap-2">
-          <button
-            onClick={onOpenFull}
-            className="text-[11px] text-primary hover:underline font-medium"
-          >
+          <button onClick={onOpenFull} className="text-[11px] text-primary hover:underline font-medium">
             View full doc →
           </button>
           <button onClick={onClose} className="text-muted-foreground hover:text-foreground">
@@ -118,41 +152,48 @@ export default function SearchPage() {
   const [question, setQuestion] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
-  const [companyFilter, setCompanyFilter] = useState("All");
-  const [yearFilter, setYearFilter] = useState("All");
   const [activeSource, setActiveSource] = useState<{ turnIdx: number; ref: number } | null>(null);
   const [drawer, setDrawer] = useState<{ open: boolean; company: string; period: string }>({
     open: false, company: "", period: "",
   });
   const bottomRef = useRef<HTMLDivElement>(null);
+  const textareaRef = useRef<HTMLTextAreaElement>(null);
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [history, loading]);
 
   const ask = async (q: string) => {
-    if (!q.trim() || loading) return;
+    const trimmed = q.trim();
+    if (!trimmed || loading) return;
+
+    // Clear input immediately on send
+    setQuestion("");
     setLoading(true);
     setError("");
     setActiveSource(null);
-    const filters: Record<string, string> = {};
-    if (companyFilter !== "All") filters.company = COMPANY_KEY_MAP[companyFilter] ?? companyFilter.toLowerCase();
-    if (yearFilter !== "All") filters.year = yearFilter;
 
     try {
       const res = await fetch("/api/search", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ question: q, filters, history: history.slice(-5) }),
+        body: JSON.stringify({ question: trimmed, filters: {}, history: history.slice(-5) }),
       });
       if (!res.ok) throw new Error(await res.text());
       const data = await res.json();
-      setHistory(h => [...h, { question: q, answer: data.answer, citations: data.citations ?? [] }]);
-      setQuestion("");
+      setHistory(h => [...h, { question: trimmed, answer: data.answer, citations: data.citations ?? [] }]);
     } catch (e) {
       setError(String(e));
     } finally {
       setLoading(false);
+      textareaRef.current?.focus();
+    }
+  };
+
+  const handleKeyDown = (e: React.KeyboardEvent<HTMLTextAreaElement>) => {
+    if (e.key === "Enter" && !e.shiftKey) {
+      e.preventDefault();
+      ask(question);
     }
   };
 
@@ -162,62 +203,23 @@ export default function SearchPage() {
     );
   };
 
-  const openDrawer = (company: string, period: string) =>
-    setDrawer({ open: true, company, period });
-
   return (
     <div className="flex flex-col flex-1 overflow-hidden">
-      <Header title="Ask / Search" subtitle="RAG-powered Q&A · Grounded in earnings call transcripts" />
+      {/* Minimal header */}
+      <header className="h-14 flex items-center px-6 border-b border-[#e8e8e8] bg-white shrink-0">
+        <h1 className="text-sm font-semibold text-gray-900">Ask AI</h1>
+      </header>
 
       <div className="flex-1 flex flex-col overflow-hidden p-6 gap-4">
 
-        {/* Filters */}
-        <div className="flex items-center gap-2 shrink-0 flex-wrap">
-          <span className="text-xs text-muted-foreground">Filter:</span>
-          {COMPANY_FILTERS.map(co => (
-            <button
-              key={co}
-              onClick={() => setCompanyFilter(co)}
-              className={cn(
-                "text-xs px-3 py-1.5 rounded-md border transition-colors",
-                companyFilter === co
-                  ? "bg-primary/20 border-primary/40 text-primary"
-                  : "border-border text-muted-foreground hover:border-primary/30 hover:text-foreground"
-              )}
-            >
-              {co}
-            </button>
-          ))}
-          <select
-            value={yearFilter}
-            onChange={e => setYearFilter(e.target.value)}
-            className="text-xs px-2 py-1.5 rounded-md border border-border bg-secondary text-muted-foreground"
-          >
-            <option>All</option>
-            {[2025,2024,2023,2022,2021,2020,2019].map(y => <option key={y}>{y}</option>)}
-          </select>
-        </div>
-
-        {/* Suggested questions */}
-        {history.length === 0 && (
-          <div className="shrink-0">
-            <p className="text-xs text-muted-foreground mb-2">Suggested questions</p>
-            <div className="flex flex-wrap gap-2">
-              {SUGGESTIONS.map(s => (
-                <button
-                  key={s}
-                  onClick={() => ask(s)}
-                  className="text-xs px-3 py-1.5 rounded-md border border-border bg-secondary/30 text-muted-foreground hover:text-foreground hover:border-primary/30 transition-colors"
-                >
-                  {s}
-                </button>
-              ))}
-            </div>
-          </div>
-        )}
-
         {/* Chat history */}
         <div className="flex-1 overflow-y-auto space-y-4 min-h-0">
+          {history.length === 0 && !loading && (
+            <div className="flex items-center justify-center h-full">
+              <p className="text-sm text-muted-foreground">Ask anything about competitors, strategy, financials, or any general question.</p>
+            </div>
+          )}
+
           {history.map((turn, turnIdx) => (
             <div key={turnIdx} className="space-y-2">
               {/* User question */}
@@ -232,32 +234,28 @@ export default function SearchPage() {
                 <div className="max-w-[90%] bg-card border border-border rounded-lg px-4 py-3 space-y-2">
                   <AnswerText
                     text={turn.answer}
-                    citations={turn.citations}
                     onSourceClick={ref => handleSourceClick(turnIdx, ref)}
                     activeSource={activeSource?.turnIdx === turnIdx ? activeSource.ref : null}
                   />
 
-                  {/* Inline snippet panel */}
                   {activeSource?.turnIdx === turnIdx && (() => {
                     const cit = turn.citations.find(c => c.ref === activeSource.ref);
                     return cit ? (
                       <SourceSnippetPanel
                         citation={cit}
                         onClose={() => setActiveSource(null)}
-                        onOpenFull={() => openDrawer(cit.company, cit.period)}
+                        onOpenFull={() => setDrawer({ open: true, company: cit.company, period: cit.period })}
                       />
                     ) : null;
                   })()}
 
-                  {/* Citation pills */}
                   {turn.citations.length > 0 && (
                     <div className="flex flex-wrap gap-1.5 pt-2 border-t border-border/50">
                       {turn.citations.map(c => (
                         <button
                           key={c.ref}
-                          onClick={() => openDrawer(c.company, c.period)}
+                          onClick={() => setDrawer({ open: true, company: c.company, period: c.period })}
                           className="text-[11px] px-2 py-0.5 rounded-full bg-secondary border border-border text-muted-foreground hover:bg-primary/10 hover:border-primary/40 hover:text-primary transition-colors"
-                          title={`Open ${c.company} ${c.period}`}
                         >
                           [{c.ref}] {c.company} · {c.period}
                         </button>
@@ -273,7 +271,7 @@ export default function SearchPage() {
             <div className="flex justify-start">
               <div className="bg-card border border-border rounded-lg px-4 py-3">
                 <div className="flex gap-1">
-                  {[0,1,2].map(i => (
+                  {[0, 1, 2].map(i => (
                     <div key={i} className="w-1.5 h-1.5 rounded-full bg-primary/50 animate-bounce" style={{ animationDelay: `${i * 0.15}s` }} />
                   ))}
                 </div>
@@ -288,10 +286,11 @@ export default function SearchPage() {
         {/* Input */}
         <div className="shrink-0 flex items-end gap-2">
           <textarea
+            ref={textareaRef}
             value={question}
             onChange={e => setQuestion(e.target.value)}
-            onKeyDown={e => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); ask(question); } }}
-            placeholder="Ask about competitor strategy, financials, products, or market positioning…"
+            onKeyDown={handleKeyDown}
+            placeholder="Ask anything…"
             rows={2}
             className="flex-1 resize-none bg-card border border-border rounded-lg px-4 py-3 text-sm text-foreground placeholder:text-muted-foreground focus:outline-none focus:border-primary/50 transition-colors"
           />

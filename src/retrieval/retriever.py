@@ -52,7 +52,7 @@ def hybrid_search(query: str, n_results: int = TOP_K, filters: dict = None) -> l
     corpus = [h["text"] for h in semantic_hits]
     bm25 = BM25Okapi([_tokenize(doc) for doc in corpus])
     bm25_scores = bm25.get_scores(_tokenize(query))
-    max_bm25 = max(bm25_scores) if max(bm25_scores) > 0 else 1.0
+    max_bm25 = max(bm25_scores) if len(bm25_scores) > 0 and max(bm25_scores) > 0 else 1.0
 
     for i, hit in enumerate(semantic_hits):
         bm25_norm = bm25_scores[i] / max_bm25

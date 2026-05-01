@@ -118,3 +118,7 @@
 aside[class*="bg-sidebar"] {
   background: linear-gradient(180deg, #1a237e 0%, #283593 50%, #3949ab 100%) !important;
 }
+
+/* Hide scrollbar while keeping scroll functionality */
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }

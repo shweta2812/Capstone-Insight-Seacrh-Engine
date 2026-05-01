@@ -1,0 +1,52 @@
+{
+  "topics": [
+    {
+      "topic_id": "ai-technology",
+      "topic_name": "AI & Technology",
+      "search_keywords": [
+        "artificial intelligence",
+        "machine learning",
+        "digital health",
+        "technology"
+      ],
+      "created_at": "2026-04-30T00:00:00Z",
+      "last_updated": "2026-04-30T23:56:01.749414"
+    },
+    {
+      "topic_id": "medicare-medicaid",
+      "topic_name": "Medicare & Medicaid",
+      "search_keywords": [
+        "Medicare Advantage",
+        "Medicaid",
+        "CMS",
+        "government health"
+      ],
+      "created_at": "2026-04-30T00:00:00Z",
+      "last_updated": "2026-04-30T23:55:54.300237"
+    },
+    {
+      "topic_id": "financial-performance",
+      "topic_name": "Financial Performance",
+      "search_keywords": [
+        "earnings",
+        "revenue",
+        "quarterly results",
+        "profit",
+        "medical loss ratio"
+      ],
+      "created_at": "2026-04-30T00:00:00Z",
+      "last_updated": "2026-04-30T23:55:51.801482"
+    },
+    {
+      "topic_id": "2644a312-4297-4ec7-adcb-30e158ed0d49",
+      "topic_name": "Mobile",
+      "search_keywords": [
+        "mobile integration",
+        "resources",
+        "insurance"
+      ],
+      "created_at": "2026-05-01T07:11:39.842104+00:00",
+      "last_updated": "2026-05-01T00:12:08.819650"
+    }
+  ]
+}

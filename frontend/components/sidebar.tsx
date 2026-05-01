@@ -6,7 +6,6 @@ import { useState } from "react";
 import {
   LayoutDashboard,
   Building2,
-  Search,
   Lightbulb,
   TrendingUp,
   FileText,
@@ -19,7 +18,6 @@ import { cn } from "@/lib/utils";
 const NAV_ITEMS = [
   { href: "/",          label: "Overview",     icon: LayoutDashboard },
   { href: "/companies", label: "Companies",    icon: Building2 },
-  { href: "/search",    label: "Ask / Search", icon: Search },
   { href: "/insights",  label: "Insights",     icon: Lightbulb },
   { href: "/trends",    label: "Trends",       icon: TrendingUp },
   { href: "/documents", label: "Documents",    icon: FileText },
